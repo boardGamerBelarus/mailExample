@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="137" started-at="2017-05-04T10:54:28Z" finished-at="2017-05-04T10:54:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="137" started-at="2017-05-04T10:54:28Z" finished-at="2017-05-04T10:54:28Z">
+      <class name="GmailTest">
+        <test-method status="PASS" signature="testDB()[pri:0, instance:GmailTest@27efef64]" name="testDB" duration-ms="116" started-at="2017-05-04T13:54:28Z" finished-at="2017-05-04T13:54:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDB -->
+      </class> <!-- GmailTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

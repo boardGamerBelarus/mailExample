@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<account>
+		<email>epamtask@gmail.com</email>
+		<password>epamtask123</password>
+	</account>
+	<account>
+		<email>epamtask2@gmail.com</email>
+		<password>epamtask123</password>
+	</account>
+</data>
